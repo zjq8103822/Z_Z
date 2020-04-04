@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Z_Z.iml" filepath="$PROJECT_DIR$/.idea/Z_Z.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zz-biz/zz-biz.iml" filepath="$PROJECT_DIR$/zz-biz/zz-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zz-biz/zz-biz-demo/zz-biz-demo.iml" filepath="$PROJECT_DIR$/zz-biz/zz-biz-demo/zz-biz-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zz-common/zz-common.iml" filepath="$PROJECT_DIR$/zz-common/zz-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zz-common/zz-common-bean/zz-common-bean.iml" filepath="$PROJECT_DIR$/zz-common/zz-common-bean/zz-common-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zz-common/zz-common-dao/zz-common-dao.iml" filepath="$PROJECT_DIR$/zz-common/zz-common-dao/zz-common-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zz-common/zz-common-service/zz-common-service.iml" filepath="$PROJECT_DIR$/zz-common/zz-common-service/zz-common-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zz-config/zz-config.iml" filepath="$PROJECT_DIR$/zz-config/zz-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zz-eureka/zz-eureka.iml" filepath="$PROJECT_DIR$/zz-eureka/zz-eureka.iml" />
+    </modules>
+  </component>
+</project>
