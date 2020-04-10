@@ -3,13 +3,17 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zz-biz" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/zz-biz" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zz-biz/zz-biz-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zz-biz/zz-biz-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zz-common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zz-common/zz-common-bean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zz-common/zz-common-bean/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zz-common/zz-common-dao" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zz-common/zz-common-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zz-common/zz-common-util/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zz-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zz-config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zz-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zz-eureka/src/main/java" charset="UTF-8" />
   </component>
 </project>

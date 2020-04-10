@@ -8,6 +8,7 @@
         <module>zz-common-bean</module>
         <module>zz-common-service</module>
         <module>zz-common-dao</module>
+        <module>zz-common-util</module>
     </modules>
     <parent>
         <groupId>com.zz</groupId>
@@ -15,7 +16,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <artifactId>zz-common</artifactId>
-    <name>zz-config</name>
-    <description>智障项目公共类,存放实体类,service,mapper</description>
+    <name>zz-common</name>
+    <description>智障项目公共类,存放实体类,service,mapper,</description>
 
 </project>

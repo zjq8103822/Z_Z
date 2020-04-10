@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ac156ae-20c9-4c27-b994-34cdf6af9103" name="Default Changelist" comment="新增zz-common-util模块">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Z_Z.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-biz/zz-biz-demo/target/classes/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-biz/zz-biz-demo/target/classes/com/zz/ZzBizDemoApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-biz/zz-biz-demo/target/classes/com/zz/controller/demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-biz/zz-biz-demo/target/classes/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-biz/zz-biz-demo/target/classes/template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-biz/zz-biz-demo/zz-biz-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-biz/zz-biz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-common/zz-common-bean/target/classes/com/zz/domain/ZzUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-common/zz-common-bean/zz-common-bean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-common/zz-common-dao/zz-common-dao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-common/zz-common-service/zz-common-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-common/zz-common-util/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-common/zz-common-util/src/main/java/common/StrUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-common/zz-common-util/src/main/java/common/UUIDUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-common/zz-common-util/target/classes/common/StrUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-common/zz-common-util/target/classes/common/UUIDUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-common/zz-common-util/zz-common-util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-common/zz-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-config/target/classes/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-config/target/classes/com/zz/ZzConfigApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-config/target/classes/repository/zz-biz-demo-db-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-config/target/classes/repository/zz-biz-demo-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-config/target/test-classes/com/zz/ZzConfigApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-config/zz-config.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-eureka/target/classes/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-eureka/target/classes/com/zz/ZzEurekaApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-eureka/target/test-classes/com/zz/ZzEurekaApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz-eureka/zz-eureka.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baidu_fbu_msoa_msoa_agent_1_4_1_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baidu_fbu_msoa_service_container_1_4_1_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baixin_agree_sso_sso_api_1_1_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zz-biz/zz-biz-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zz-biz/zz-biz-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zz-biz/zz-biz-demo/src/main/java/com/zz/controller/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/zz-biz/zz-biz-demo/src/main/java/com/zz/controller/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zz-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zz-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zz-config/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zz-config/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zz-eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zz-eureka/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Z_Z_repository" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="Unnamed" pattern="" />
+  </component>
+  <component name="ProjectId" id="1a95GfgBjvOuWBXa30lWS9289Ho" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zz-common/zz-common-util/src/main/java/common" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15625" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\Z_Z\zz-common\zz-common-util\src\main\java\common" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ZzBizDemoApplication">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="zz-biz" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="zz-biz" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZzBizDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="zz-biz-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zz.ZzBizDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZzConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zz-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zz.ZzConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZzEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zz-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zz.ZzEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ZzBizDemoApplication" />
+        <item itemvalue="Spring Boot.ZzBizDemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.17015707" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ac156ae-20c9-4c27-b994-34cdf6af9103" name="Default Changelist" comment="" />
+      <created>1586134874661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586134874661</updated>
+      <workItem from="1586134876300" duration="6819000" />
+      <workItem from="1586153845703" duration="1947000" />
+      <workItem from="1586218272815" duration="636000" />
+      <workItem from="1586245781300" duration="1037000" />
+      <workItem from="1586395767625" duration="2224000" />
+      <workItem from="1586485448318" duration="4426000" />
+      <workItem from="1586489943193" duration="2140000" />
+      <workItem from="1586497595016" duration="9488000" />
+      <workItem from="1586507728171" duration="1196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../Z_Z_repository" />
+    </ignored-roots>
+    <MESSAGE value="新增zz-common-util模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增zz-common-util模块" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="92" key="#Project_Structure" timestamp="1586488664901">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="92" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1586488664901" />
+    <state x="665" y="237" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1586506685438">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="665" y="237" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1600.860@0.0.1600.860" timestamp="1586506685438" />
+    <state x="630" y="147" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1586504454315">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="630" y="147" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1600.860@0.0.1600.860" timestamp="1586504454315" />
+    <state x="530" y="188" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1586488591954">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="188" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1600.860@0.0.1600.860" timestamp="1586488591954" />
+    <state x="2" y="18" width="1469" height="807" key="CommitChangelistDialog2" timestamp="1586508816127">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="2" y="18" width="1469" height="807" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1586508816127" />
+    <state x="92" y="92" width="1416" height="676" key="DiffContextDialog" timestamp="1586507915126">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1586507915126" />
+    <state x="580" y="188" key="FileChooserDialogImpl" timestamp="1586504280696">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="188" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1586504280696" />
+    <state width="1557" height="214" key="GridCell.Tab.0.bottom" timestamp="1586506757128">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="214" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586506757128" />
+    <state width="1557" height="214" key="GridCell.Tab.0.center" timestamp="1586506757128">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="214" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1586506757128" />
+    <state width="1557" height="214" key="GridCell.Tab.0.left" timestamp="1586506757128">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="214" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1586506757128" />
+    <state width="1557" height="214" key="GridCell.Tab.0.right" timestamp="1586506757128">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="214" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1586506757128" />
+    <state width="1267" height="126" key="GridCell.Tab.1.bottom" timestamp="1586489888690">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1267" height="126" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586489888690" />
+    <state width="1267" height="126" key="GridCell.Tab.1.center" timestamp="1586489888690">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1267" height="126" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1586489888690" />
+    <state width="1267" height="126" key="GridCell.Tab.1.left" timestamp="1586489888690">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1267" height="126" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1586489888690" />
+    <state width="1267" height="126" key="GridCell.Tab.1.right" timestamp="1586489888690">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1267" height="126" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1586489888690" />
+    <state x="330" y="88" key="Maven.ArtifactSearchDialog" timestamp="1586502106674">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="330" y="88" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1586502106674" />
+    <state x="463" y="142" key="NewModule_or_Project.wizard" timestamp="1586501373895">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="142" key="NewModule_or_Project.wizard/0.0.1600.860@0.0.1600.860" timestamp="1586501373895" />
+    <state x="40" y="54" width="1455" height="708" key="SettingsEditor" timestamp="1586508213215">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="40" y="54" width="1455" height="708" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1586508213215" />
+    <state width="242" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1586140834393">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="242" height="198" key="ShowFilterAction_Filter_Popup/0.0.1600.860@0.0.1600.860" timestamp="1586140834393" />
+    <state x="682" y="351" key="VCS.EditChangelistDialog" timestamp="1586507518839">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="682" y="351" key="VCS.EditChangelistDialog/0.0.1600.860@0.0.1600.860" timestamp="1586507518839" />
+    <state x="554" y="167" key="VcsDiffUtil.ChangesDialog" timestamp="1586507153653">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="554" y="167" key="VcsDiffUtil.ChangesDialog/0.0.1600.860@0.0.1600.860" timestamp="1586507153653" />
+    <state x="594" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586498918560">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="594" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1586498918560" />
+    <state x="487" y="185" width="626" height="490" key="find.popup" timestamp="1586498080390">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="487" y="185" width="626" height="490" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1586498080390" />
+    <state x="522" y="232" key="git4idea.merge.GitPullDialog" timestamp="1586497310533">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="522" y="232" key="git4idea.merge.GitPullDialog/0.0.1600.860@0.0.1600.860" timestamp="1586497310533" />
+    <state x="603" y="309" key="git4idea.rebase.GitRebaseDialog" timestamp="1586499015449">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="603" y="309" key="git4idea.rebase.GitRebaseDialog/0.0.1600.860@0.0.1600.860" timestamp="1586499015449" />
+    <state x="655" y="339" key="git4idea.ui.GitStashDialog" timestamp="1586136279823">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="655" y="339" key="git4idea.ui.GitStashDialog/0.0.1600.860@0.0.1600.860" timestamp="1586136279823" />
+    <state x="198" y="54" key="new project wizard" timestamp="1586499114983">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="198" y="54" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1586499114983" />
+    <state x="392" y="92" key="scopes" timestamp="1586140727501">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="92" key="scopes/0.0.1600.860@0.0.1600.860" timestamp="1586140727501" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1586140834390">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1586140834390" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Z_Z$ZzEurekaApplication.ic" NAME="ZzEurekaApplication Coverage Results" MODIFIED="1586245962512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Z_Z$ZzConfigApplication.ic" NAME="ZzConfigApplication Coverage Results" MODIFIED="1586246035609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Z_Z$ZzBizDemoApplication.ic" NAME="ZzBizDemoApplication Coverage Results" MODIFIED="1586246058574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.zz.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -7,7 +7,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/zz-config/pom.xml" />
         <option value="$PROJECT_DIR$/zz-common/pom.xml" />
-        <option value="$PROJECT_DIR$/zz-biz/zz-biz-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/zz-biz/pom.xml" />
+        <option value="$PROJECT_DIR$/zz-common/zz-common-util/pom.xml" />
       </list>
     </option>
   </component>
